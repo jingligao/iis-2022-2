@@ -1,7 +1,7 @@
-title: Machine Learning 2022-I
-description: Universidad Nacional de Colombia, Bogotá
+title: Machine Learning 2022-II
+description: Pingdingshan University, Pingdingshan, China
 sitename: Machine Learning
-baseurl: '/ml-2022-1'
+baseurl: '/ml-2022-2'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
