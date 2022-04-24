@@ -6,10 +6,7 @@ subheading:
 image: 
 ---
 
-* Participation 10%
-* Assignments 20%
-* Quizzes 20%
-* Exam 30%
-* Final project 20%
+* Assignments 50%
+* Final project 50%
 
 [Grades]()
