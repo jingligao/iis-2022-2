@@ -91,7 +91,7 @@ image:
 				Asynchronous class:<br> 
 				[Lv21] Chap 7 (<a href= "docs/slides/section5.pptx">slides</a>)<br>
 				[Gonz18] Chap 7 (<a href= "docs/handouts/hts-section5.pdf">handouts</a>)<br>
-				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
+				[Fag21] Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a>
 			</td>
@@ -116,12 +116,12 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Aug 1</td>
+			<td>Jun 25</td>
 			<td></td>
 			<td>
 			</td>
 			<td>
-				<a href= "docs/assigns/project.pdf">Final Project</a><br>Please refer to the poster and presentation video examples in the final project.  
+				<a href= "docs/assigns/project.pdf">Final Project</a>
 			</td>
 		</tr>
 	</tbody>

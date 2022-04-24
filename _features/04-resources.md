@@ -9,8 +9,9 @@ image:
 ### References
 
 * [Lv21] 吕云翔, 刘卓然. [PyTorch深度学习实战：微课视频版](http://www.tup.tsinghua.edu.cn/booksCenter/book_07849701.html#), 清华大学出版社, 2021.
-* [Gonz18] Rafael C. Gonzalez, Richard E. Woods. [Digital Image Processing](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html), 4th Edition, Pearson, 2018
-* [Alp14] Alpaydin, E. [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/), 3Ed. The MIT Press, 2014 
+* [Gonz18] Rafael C. Gonzalez, Richard E. Woods. [Digital Image Processing](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html), 4th Edition, Pearson, 2018.
+* [Alp14] Alpaydin, E. [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/), 3Ed. The MIT Press, 2014.
+* [Fag21] Fabio A. González. [Machine Learning](https://fagonzalezo.github.io/ml-2021-1/), 2021.
 * [Mur12] Murphy, Kevin P. [Machine learning: a probabilistic perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). The MIT Press, 2012. 
 * [Barber2013] Barber, David, [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage), Cambridge University Press, 2013.
 * [Bis06] Bishop, C.  [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/). Springer-Verlag, 2006.
