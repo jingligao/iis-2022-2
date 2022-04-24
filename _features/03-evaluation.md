@@ -8,5 +8,3 @@ image:
 
 * Assignments 50%
 * Final project 50%
-
-[Grades]()
