@@ -32,6 +32,7 @@ image:
 * [SciPy](http://www.scipy.org/): scientific, mathematical, and engineering package for Python
 * [scikit-learn](http://scikit-learn.org/): machine learning Scipy add-on
 * [Kaggle](https://www.kaggle.com/): datascience competition, many interesting data sets and different competitions with prizes.
+* [Stanford Deep Learning for Computer Vision](http://cs231n.stanford.edu/): one of the best computer vision course taught by Fei-Fei Li.
 * [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning): one of the first (and still one of the best) machine learning MOOCs taught by Andrew Ng.
 * [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about): an introductory course with focus in supervised learning and taught by Trevor Hastie and Rob Tibshirani.
 * [Introduction to Machine Learning](https://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/CSC411_Fall16.html): the course content comes from specific chapters of Pattern Recognition and Machine Learning by Chris Bishop. 
