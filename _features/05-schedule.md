@@ -29,6 +29,7 @@ image:
 			<td>
 				<a href= "https://docs.python.org/3/">Python Documentation</a><br>
 				<a href= "https://docs.python.org/zh-cn/3/">Python Documentation(中文版)</a>
+				<a hre="docs/assigns/win10_Anaconda_pytorch_cpu_setup.docx">Pytorch Setup Documentation(安装说明)</a>
 			</td>
 		</tr>
 		<tr>
