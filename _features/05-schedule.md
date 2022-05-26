@@ -29,7 +29,7 @@ image:
 			<td>
 				<a href= "https://docs.python.org/3/">Python Documentation</a><br>
 				<a href= "https://docs.python.org/zh-cn/3/">Python Documentation(中文版)</a>
-				Pytorch <a href= "docs/assigns/win10_Anaconda_pytorch_cpu_setup.docx"> Setup Documentation(安装说明)</a>
+				Pytorch Setup Documentation(安装说明) (<a href= "docs/assigns/win10_Anaconda_pytorch_cpu_setup.docx"> CPU version</a>)(<a href= "docs/assigns/win10_Anaconda_pytorch_gpu_setup.docx"> GPU version</a>)
 			</td>
 		</tr>
 		<tr>
