@@ -11,6 +11,7 @@ image:
 * [Lv21] 吕云翔, 刘卓然. [PyTorch深度学习实战：微课视频版](http://www.tup.tsinghua.edu.cn/booksCenter/book_07849701.html#), 清华大学出版社, 2021.
 * [xu22] 徐亦达. [Machine Learning Class](https://github.com/roboticcam/machine-learning-notes). 
 * [Gonz18] Rafael C. Gonzalez, Richard E. Woods. [Digital Image Processing](https://www.pearson.com/us/higher-education/program/Gonzalez-Digital-Image-Processing-4th-Edition/PGM241219.html), 4th Edition, Pearson, 2018.
+* [Gut22] Michael U. Gutmann. [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446), 2022.
 * [Alp14] Alpaydin, E. [Introduction to Machine Learning](http://www.cmpe.boun.edu.tr/~ethem/i2ml3e/), 3Ed. The MIT Press, 2014.
 * [Fag21] Fabio A. González. [Machine Learning](https://fagonzalezo.github.io/ml-2021-1/), 2021.
 * [Mur12] Murphy, Kevin P. [Machine learning: a probabilistic perspective](http://www.cs.ubc.ca/~murphyk/MLbook/). The MIT Press, 2012. 
